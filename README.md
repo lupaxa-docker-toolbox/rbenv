@@ -10,7 +10,7 @@ Rbenv is a set of images with [rbenv](https://github.com/rbenv/rbenv) installed.
 
 The image also clones ruby-build, which is the plugin rbenv uses to install Ruby.
 
-The supported tags are the releases still in the vendor's own security support, the same set [Container Framework](https://github.com/lupaxa-docker-toolbox/container-framework) builds.
+These images build Alpine, CentOS Stream, Debian, and Ubuntu. The tags are the releases still in the vendor's own security support, taken from the [Container Framework](https://github.com/lupaxa-docker-toolbox/container-framework) catalogue.
 
 Debian and Ubuntu also publish the codename. The newest tag of each family is `latest`.
 
